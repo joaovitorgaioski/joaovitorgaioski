@@ -1,13 +1,15 @@
 <h1 align="center">Olá 👋, me chamo João Vitor</h1>
 <h3 align="center">E sou um entusiasta curioso do conhecimento</h3>
 
-- 💬 Me pergunte algo sobre **física**
-
 - 🌱 Atualmente estou aprendendo **análise e desenvolvimento de sistemas**
 
 - 🔭 Em busca de **me aperfeiçoar**
 
 - 📕 Conclui um curso de informática **em escola pública federal**
+  
+- 💬 Me pergunte algo sobre **física**
+  
+- 🕵 Meu pseudônimo é **gunberq**
 
 - 📫 Você vai me encontrar pelo email **semsubscritores445@gmail.com**
 

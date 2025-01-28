@@ -9,7 +9,7 @@
   
 - 💬 Me pergunte algo sobre **física**
   
-- 🕵 Meu pseudônimo é **gunberq**
+- 🕵 Meu pseudônimo na internet é **gunberq**
 
 - 📫 Você vai me encontrar pelo email **semsubscritores445@gmail.com**
 

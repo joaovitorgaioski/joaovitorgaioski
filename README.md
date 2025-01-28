@@ -9,6 +9,8 @@
 
 - 🔭 Em busca de **me aperfeiçoar**
 
+- 🎞️ 7 anos de experiência em **edição de vídeo**
+
 - 📕 Conclui um curso de informática **em escola pública federal**
   
 - 💬 Me pergunte algo sobre **física**

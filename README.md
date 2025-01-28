@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo João Vitor</h1>
-<h3 align="center">E sou um entusiasta curioso do conhecimento</h3>
+<h3 align="center">Sou um entusiasta curioso do conhecimento</h3>
 
 <p align="center">
   <img src="sukuna.gif" alt="Sukuna gif" height="180" width="405">

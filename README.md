@@ -2,7 +2,7 @@
 
 <h3 align="center">Sou um entusiasta curioso do conhecimento</h3>
 <p align="center">
-  <img src="sukuna.gif" alt="Sukuna" height="180" width="405">
+  <img src="sukuna.gif" alt="Sukuna" height="144" width="324">
 </p>
 
 - 🌱 Atualmente estou aprendendo **análise e desenvolvimento de sistemas**

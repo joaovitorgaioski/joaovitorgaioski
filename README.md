@@ -1,6 +1,6 @@
 <h1 align="center">Olá <img src="sinal_de_v.webp" alt="Ola" height="40" width="40">, me chamo João</h1>
 
-<h3 align="center">Sou um estudante entusiasta</h3>
+<h3 align="center">Aqui vai um pouco sobre mim</h3>
 <p align="center">
   <img src="sukuna.gif" alt="Sukuna" height="144" width="324">
 </p>

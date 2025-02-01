@@ -2,7 +2,7 @@
 
 <h3 align="center">Aqui vai um pouco sobre mim</h3>
 <p align="center">
-  <img src="readme_archive/sukuna.gif" alt="Sukuna" height="144" width="324">
+  <img src="readme_archives/sukuna.gif" alt="Sukuna" height="144" width="324">
 </p>
 
 - 🌱 Atualmente estou aprendendo **análise e desenvolvimento de sistemas**

@@ -19,6 +19,8 @@
 
 - 📫 Você vai me encontrar pelo email **semsubscritores445@gmail.com**
 
+- 📜 Encontre alguns dos meus certificados <a href="https://github.com/joaovitorgaioski/joaovitorgaioski/tree/main/Certificados" target=blank>aqui</a>
+
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://instagram.com/joao.gaioski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joao.gaioski" height="30" width="40" /></a>

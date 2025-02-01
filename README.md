@@ -13,7 +13,7 @@
 
 - 📕 Conclui um curso de informática **em escola pública federal**
   
-- 💬 Me pergunte algo sobre **física**
+- 💬 Gosto de **línguas, física e biologia**
   
 - 🕵 Meu pseudônimo na internet é **gunberq**
 

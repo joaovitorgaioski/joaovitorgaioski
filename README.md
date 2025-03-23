@@ -1,4 +1,4 @@
-<h1 align="center">Olá <img src="readme_archives/hello.webp" alt="Ola" height="40" width="40">, me chamo João</h1>
+<h1 align="center">Olá <img src="readme_archives/hello.webp" alt="Ola" height="40" width="40"></h1>
 
 <h3 align="center">Aqui vai um pouco sobre mim</h3>
 <p align="center">

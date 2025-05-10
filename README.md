@@ -13,9 +13,7 @@
 
 - 📕 Conclui um curso de informática **em escola pública federal**
   
-- 💬 Gosto de **linguagens, física e biologia**
-  
-- 🕵 Meu pseudônimo na internet é **gunberq**
+- 💬 Gosto de **línguas, física e biologia**
 
 - 📫 Você vai me encontrar pelo email **semsubscritores445@gmail.com**
 

@@ -7,7 +7,7 @@
 
 - 🌱 Estudando **análise e desenvolvimento de sistemas**
 
-- ⌨️ Técnico em Informática pelo **Instituto Federal do Paraná**
+- 💻 Técnico em Informática pelo **Instituto Federal do Paraná**
 
 - 🎞️ 7 anos de experiência em **edição de vídeo**
   

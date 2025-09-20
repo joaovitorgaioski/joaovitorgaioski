@@ -13,14 +13,14 @@
   
 - 💬 Gosto de **línguas, física e programação**
 
-- 📜 Encontre alguns dos meus certificados <a href="https://github.com/joaovitorgaioski/joaovitorgaioski/tree/main/Certificados" target=blank>aqui</a>
+- 📜 Encontre alguns dos meus certificados <a href="https://github.com/joaovitorgaioski/joaovitorgaioski/tree/main/Certificados" target=blank>**aqui**</a>
 
 - 📫 Me contate pelo e-mail: **semsubscritores445@gmail.com**
 
 <h3 align="left">Redes:</h3>
 <p align="left">
-<a href="https://instagram.com/joao.gaioski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joao.gaioski" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@gunberq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gunberq" height="30" width="40" /></a>
+  <a href="https://instagram.com/joao.gaioski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joao.gaioski" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@gunberq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gunberq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens:</h3>

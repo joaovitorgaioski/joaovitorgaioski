@@ -5,7 +5,7 @@
   <img src="readme_archives/joaovitorgaioski.gif" alt="joaovitorgaioski" height="180" width="324">
 </p>
 
-- 🌱 Estudante de **análise e desenvolvimento de sistemas**
+- 🌱 Estudando **análise e desenvolvimento de sistemas**
 
 - ⌨️ Técnico em Informática pelo **Instituto Federal do Paraná**
 

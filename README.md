@@ -5,19 +5,17 @@
   <img src="readme_archives/joaovitorgaioski.gif" alt="joaovitorgaioski" height="180" width="324" border-color="red">
 </p>
 
-- 🌱 Atualmente estou aprendendo **análise e desenvolvimento de sistemas**
-
-- 🔭 Em busca de **me aperfeiçoar**
+- 🌱 Estudante de **análise e desenvolvimento de sistemas**
+- 
+- ⌨️ Técnico em Informática pelo **Instituto Federal do Paraná**
 
 - 🎞️ 7 anos de experiência em **edição de vídeo**
-
-- 📕 Conclui um curso de informática **em escola pública federal**
   
 - 💬 Gosto de **línguas, física e programação**
 
-- 📫 Você vai me encontrar pelo email **semsubscritores445@gmail.com**
-
 - 📜 Encontre alguns dos meus certificados <a href="https://github.com/joaovitorgaioski/joaovitorgaioski/tree/main/Certificados" target=blank>aqui</a>
+
+- 📫 Me contate pelo e-mail: **semsubscritores445@gmail.com**
 
 <h3 align="left">Redes:</h3>
 <p align="left">

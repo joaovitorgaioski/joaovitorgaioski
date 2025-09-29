@@ -1,6 +1,6 @@
 <h1 align="center">Olá <img src="readme_archives/hello.webp" alt="Ola" height="40" width="40"></h1>
 
-<h3 align="center">Aqui vai um pouco sobre mim</h3>
+<h3 align="center">Um pouco sobre mim</h3>
 <p align="center">
   <img src="readme_archives/joaovitorgaioski.gif" alt="joaovitorgaioski" height="180" width="324">
 </p>

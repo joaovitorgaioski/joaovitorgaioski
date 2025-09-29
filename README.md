@@ -9,7 +9,7 @@
 
 - 🎞️ 7 anos de experiência em **edição de vídeo**
   
-- 💬 Gosto de **línguas, física e programação**
+- 💬 **Línguas, física e programação**
 
 - 📜 Encontre alguns dos meus certificados <a href="https://github.com/joaovitorgaioski/joaovitorgaioski/tree/main/Certificados" target=blank>**aqui**</a>
 

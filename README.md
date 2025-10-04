@@ -3,7 +3,7 @@
   <img src="readme_archives/joaovitorgaioski.gif" alt="joaovitorgaioski" height="180" width="324">
 </p>
 
-- 🌱 Estudando **análise e desenvolvimento de sistemas**
+- 🌱 Estudando **Análise e Desenvolvimento de Sistemas**
 
 - 💻 Técnico em Informática pelo **Instituto Federal do Paraná**
 
@@ -13,7 +13,7 @@
 
 - 📜 <a href="https://github.com/joaovitorgaioski/joaovitorgaioski/tree/main/Certificados" target=blank>**Certificados**</a>
 
-- 📫 Me contate pelo e-mail: **semsubscritores445@gmail.com**
+- 📫 E-mail: **semsubscritores445@gmail.com**
 
 <h3 align="left">Redes:</h3>
 <p align="left">

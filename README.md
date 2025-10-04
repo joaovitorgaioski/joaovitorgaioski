@@ -11,7 +11,7 @@
   
 - 💬 **Línguas, física e programação**
 
-- 📜 Encontre alguns dos meus certificados <a href="https://github.com/joaovitorgaioski/joaovitorgaioski/tree/main/Certificados" target=blank>**aqui**</a>
+- 📜 <a href="https://github.com/joaovitorgaioski/joaovitorgaioski/tree/main/Certificados" target=blank>**Certificados**</a>
 
 - 📫 Me contate pelo e-mail: **semsubscritores445@gmail.com**
 

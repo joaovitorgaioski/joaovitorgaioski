@@ -6,10 +6,8 @@
 - 🌱 Estudando **Análise e Desenvolvimento de Sistemas**
 
 - 💻 Técnico em Informática pelo **Instituto Federal do Paraná**
-
-- 🎞️ **edição de vídeo**
   
-- 💬 **Línguas, física e programação**
+- 💬 **Edição de vídeo, línguas, física e programação**
 
 - 📜 <a href="https://github.com/joaovitorgaioski/joaovitorgaioski/tree/main/Certificados" target=blank>**Certificados**</a>
 

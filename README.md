@@ -11,7 +11,7 @@
 
 - 📜 <a href="https://github.com/joaovitorgaioski/joaovitorgaioski/tree/main/Certificados" target=blank>**Certificados**</a>
 
-- 📫 E-mail: **semsubscritores445@gmail.com**
+- 📫 E-mail: **jvgaioski2007@gmail.com**
 
 <h3 align="left">Linguagens:</h3>
 <p align="left">

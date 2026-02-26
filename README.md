@@ -1,6 +1,6 @@
 <h3 align="center">Um pouco sobre mim</h3>
 <p align="center">
-  <img src="readme_archives/joaovitorgaioski.gif" alt="joaovitorgaioski" height="180" width="324">
+  <img src="joaovitorgaioski.gif" alt="joaovitorgaioski" height="180" width="324">
 </p>
 
 - 🌱 Estudando **Análise e Desenvolvimento de Sistemas**

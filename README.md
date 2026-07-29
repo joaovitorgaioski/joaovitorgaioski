@@ -1,4 +1,4 @@
-<h3>Um pouco sobre mim</h3>
+<h2>Um pouco sobre mim</h2>
 
 - 🌱 Estudando **Análise e Desenvolvimento de Sistemas**
 
